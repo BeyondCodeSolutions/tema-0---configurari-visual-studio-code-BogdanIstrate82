@@ -75,4 +75,3 @@ When your homework is done, open a pull request:
 1. Go to GitHub, find the repo you were
 2. Click `Pull Requests`
 3. New Line :D
-4. New new Line
